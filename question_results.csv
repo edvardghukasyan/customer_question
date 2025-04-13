@@ -1,0 +1,270 @@
+name,description,count
+Human Agent Assistance,Questions related to difficulties in reaching or communicating with a human customer service representative.,4
+Billing Inquiries,"Questions related to locating, accessing, or understanding bills and invoices from specific individuals or entities.",11
+Payment Issues,"Questions related to difficulties with making payments, reporting payment problems, or seeking assistance with payment processes.",15
+Customer Service Assistance,Questions related to seeking help or guidance on how to contact or communicate with customer service representatives.,3
+Payment Options Inquiry,"Questions related to the types of payment methods accepted, such as credit cards, PayPal, or other payment services.",8
+Newsletter Signup,"Questions related to signing up for the company's newsletter, including where and how to subscribe.",1
+Withdrawal Fee Inquiries,"Questions related to understanding, locating, or clarifying fees associated with withdrawing funds from an account.",3
+Customer Support Requests,Questions where customers express a desire to speak with a representative or seek direct assistance from a support team member.,8
+Invoice Access Assistance,"Questions related to accessing, viewing, or retrieving specific invoices or billing documents.",1
+Account Deletion Requests,"Questions related to the process of deleting or closing accounts, including specific account types such as platinum accounts.",3
+Refund Policy Inquiries,"Questions related to the conditions and scenarios under which a customer can request a refund, including eligibility and process details.",13
+Consumer Claims and Complaints,"Questions related to filing claims or complaints against the organization, including seeking assistance with the process and understanding consumer rights.",1
+Customer Support Contact Information,"Questions related to obtaining contact information for customer support, including phone numbers, email addresses, or other means of communication.",2
+Early Termination Penalties,Questions related to understanding the penalties or fees associated with terminating a service or contract before its agreed-upon end date.,2
+Unsubscribe Requests,"Questions related to unsubscribing from newsletters, mailing lists, or other subscription services.",1
+Signup Issues,"Questions related to problems or difficulties encountered during the signup process, including how to report or resolve these issues.",1
+Billing Document Requests,Questions related to downloading or accessing billing statements or invoices from specific individuals or accounts.,6
+Refund Requests,"Questions related to obtaining refunds for purchases, including issues with receiving money back and the refund process.",41
+Account Upgrade Assistance,"Questions related to upgrading or changing account types, including steps to switch to a pro account or other premium services.",2
+Newsletter Subscription Status,"Questions related to checking or verifying the status of a subscription to a newsletter, including how to access or view subscription details.",1
+Account Cancellation Inquiries,"Questions related to the process of canceling various types of accounts, including steps required and any conditions that may apply.",3
+Subscription Cancellation Requests,"Questions related to cancelling subscriptions, including newsletters, memberships, or other recurring services.",2
+Customer Service Hours,"Questions related to the operating hours of customer service, including when customers can contact support for assistance.",3
+Order Tracking,"Questions related to checking the status of an order, including delivery dates and tracking information.",14
+Delivery Address Management,"Questions related to adding, updating, or changing delivery addresses for orders.",1
+Cancellation Charges Inquiry,Questions related to understanding the fees or charges associated with canceling a service or subscription.,1
+Live Agent Support Requests,Questions and requests from customers seeking assistance to connect with a live customer support agent for real-time help.,1
+Account Modification Requests,"Questions related to changing or updating information on customer accounts, including account types such as platinum accounts.",4
+Refund Status Inquiries,"Questions related to the status of refund requests, including whether a refund has been processed or when it will be completed.",5
+Bill Download Assistance,"Questions related to downloading or accessing billing statements, invoices, or payment records.",5
+Order Cancellation Requests,"Questions related to canceling orders, including inquiries about the process, eligibility, and consequences of canceling an order.",26
+Order Editing Issues,"Questions related to difficulties or issues encountered when attempting to edit an existing order, such as changing order details, updating quantities, or modifying shipping information.",2
+Reimbursement Policy Inquiries,"Questions related to understanding, checking, or clarifying the reimbursement policy, including eligibility, process, and conditions for reimbursement.",3
+Delivery Address Issues,Questions related to problems or difficulties encountered when setting up or modifying delivery addresses for orders.,2
+Invoice Assistance,"Questions related to downloading, accessing, or managing invoices and billing documents.",2
+Account Opening Requests,"Questions related to opening different types of accounts, including inquiries about the process, requirements, and options available for account categories.",11
+Account Data Editing,"Questions related to modifying or updating information on a specific account category, such as changing account details, correcting errors, or updating preferences.",2
+Agent Assistance Requests,Questions or requests where customers explicitly ask to speak with a human representative or agent for further assistance.,2
+Product Review Assistance,"Questions related to providing feedback, opinions, or reviews for products, including how to submit a review or where to leave feedback.",3
+Withdrawal Charges Inquiry,Questions related to understanding the fees or charges associated with withdrawing funds from an account.,2
+Reimbursement Requests,"Questions related to the conditions and processes for requesting reimbursements, including eligibility and required documentation.",2
+Order Status Inquiries,"Questions related to checking the current status of a customer's order, including tracking and delivery updates.",14
+Account Closure Procedures,Questions related to the steps and requirements for closing or terminating an account in various categories.,3
+Signup Error Reports,Questions and reports related to issues or errors encountered during the signup or registration process.,1
+Cancellation Fee Inquiries,Questions related to understanding the fees associated with canceling a service or subscription.,2
+Account Removal Issues,"Questions related to problems or issues encountered during the process of removing or closing an account, including difficulties with account deletion or cancellation.",1
+Billing Assistance,"Questions related to locating, understanding, or resolving issues with specific bills or invoices.",9
+Account Creation Assistance,"Questions related to the process of creating new accounts, including different account types such as platinum, gold, or basic accounts.",10
+Billing Download Instructions,Questions related to downloading or accessing billing statements or invoices from a specific service or provider.,2
+Shipping Address Issues,"Questions related to problems or inquiries about adding, modifying, or submitting shipping addresses, including primary and secondary addresses.",3
+Address Modification Issues,Questions related to problems or errors encountered when attempting to modify or update address information in the system.,2
+Invoice Download Assistance,"Questions related to downloading, accessing, or retrieving invoices or billing statements.",3
+Account Removal Procedures,Questions related to the steps or processes required to remove or delete a standard account.,1
+Customer Support Contact,Questions related to how customers can reach out to or communicate with a support representative or customer service.,1
+Customer Service Availability,"Questions related to the hours and availability of customer service support, including when and how customers can get in touch with service representatives.",5
+Shipping Options Inquiry,"Questions related to the different shipping methods, delivery times, and associated costs offered by the company.",3
+Consumer Complaint Filing Assistance,"Questions related to seeking help or guidance on how to file a consumer complaint, including the process, necessary steps, and any related documentation or support needed.",1
+Operator Assistance Requests,Questions or requests where customers express dissatisfaction with automated help and seek to speak directly with a human operator or customer service representative.,3
+Delivery Address Updates,"Questions related to updating, changing, or modifying the delivery address for an order or account.",2
+Account Creation for Family Members,"Questions related to creating accounts for family members, such as spouses or children, specifying the type of account to be created.",6
+Order Placement Inquiries,Questions related to the possibility and process of placing orders from specific locations or cities.,8
+Newsletter Subscription Assistance,"Questions related to subscribing to, receiving, or managing the newsletter, including issues with sign-up or delivery.",2
+Registration Error Reporting,Questions related to reporting errors or issues encountered during the registration process.,1
+Shopping Assistance,Questions related to seeking help or guidance in purchasing multiple items or products.,5
+Customer Complaints,"Questions and requests related to filing complaints, reporting issues, or expressing dissatisfaction with products or services.",4
+Rebate and Refund Inquiries,"Questions related to pending rebates, refunds, or financial reimbursements that customers are expecting.",8
+Customer Service Contact,Questions related to how customers can reach or communicate with customer service for assistance or inquiries.,1
+Sign-Up Error Notifications,"Questions related to issues encountered during the sign-up process, including error notifications and troubleshooting steps.",1
+Order Cancellation Issues,"Questions related to difficulties or problems encountered when attempting to cancel an order, including issues with the cancellation process or system errors.",8
+Order Placement Issues,"Questions related to difficulties or inquiries about placing an order, including issues with the ordering process, selecting products, or completing a purchase.",1
+Feedback Submission Assistance,Questions related to seeking help or guidance on how to submit feedback or reviews for products or services.,5
+User Account Management,"Questions related to editing, updating, or managing user account details and settings.",2
+Order Modification Requests,"Questions related to changing, switching, or modifying items in an existing order.",14
+User Profile Key Restoration,"Questions related to recovering or restoring access keys or credentials for user profiles, including steps to regain access or reset keys.",1
+Account Cancellation,"Questions related to the process of canceling accounts, including steps to cancel, policies, and any related issues.",1
+Account Closure Inquiries,"Questions related to the process, requirements, and implications of closing or removing an account, including different types of accounts.",1
+Address Submission Issues,"Questions related to problems or difficulties encountered when trying to submit or update delivery addresses, including primary or secondary addresses.",1
+Shipping Address Setup,"Questions related to setting up, updating, or managing shipping addresses for customer accounts.",2
+Reimbursement Policies,Questions related to the conditions and circumstances under which customers can request reimbursements or refunds.,1
+Compensation Requests,"Questions related to requesting compensation, refunds, or financial reimbursement for services or issues encountered.",9
+Feedback Submission,Questions related to providing feedback or reviews for services or products.,4
+Address Update Assistance,"Questions related to updating or changing delivery addresses, including how to enter new address information in the system.",2
+Shipping Address Setup Issues,Questions related to problems or difficulties encountered when setting up or updating a shipping address in the system.,2
+Shipping Inquiries,"Questions related to shipping destinations, delivery options, and whether specific locations are serviced.",26
+Billing Requests,Questions related to retrieving or accessing specific billing statements or invoices.,2
+Account Information Correction,"Questions related to correcting or updating information on a standard account, including personal details, contact information, or account settings.",1
+Address Change Support,Questions related to changing or updating customer address information in their account or profile.,1
+Shipping Address Corrections,"Questions related to correcting or updating the shipping address for an order, including how to make changes to the address after an order has been placed.",1
+Newsletter Subscription,"Questions related to signing up for, managing, or receiving the corporate newsletter.",2
+Online Payment Issues,"Questions related to problems or concerns with processing payments online, including reporting issues, troubleshooting payment failures, and seeking assistance for payment-related errors.",7
+Delivery Method Inquiries,"Questions related to understanding the available delivery methods, options, and how to check or select them.",1
+Payment Issues Reporting,"Questions related to reporting or addressing issues with payment processes, such as failed transactions, incorrect charges, or payment method problems.",1
+Payment Options Assistance,Questions related to understanding or verifying the accepted payment methods and options available for transactions.,1
+Delivery Methods Inquiry,"Questions related to the available methods for delivering products or services, including options, processes, and preferences.",1
+Billing Information Retrieval,"Questions related to finding, accessing, or retrieving billing statements or invoices from a specific person or account.",1
+Opinion Writing Assistance,"Questions related to seeking help or guidance in writing opinions, essays, or personal viewpoints.",1
+Invoice Inquiries,"Questions related to checking, verifying, or obtaining details about specific invoices, including invoice numbers, amounts, and payment status.",1
+Standard Account Opening Inquiries,"Questions related to the process, requirements, and details for opening standard accounts.",1
+Live Agent Assistance,Questions related to seeking help or guidance on how to connect with a live customer service representative.,1
+Customer Support Assistance,Questions related to seeking help or contacting a customer service representative or assistant.,2
+Payment Methods Inquiry,"Questions related to the types of payment methods accepted, such as credit cards, PayPal, bank transfers, or other payment options.",5
+Order Cancellation Inquiries,"Questions related to canceling a purchase, including requests for cancellation, inquiries about the cancellation process, and issues related to order cancellation.",1
+Order Cancellation Queries,"Questions related to the process of canceling an order, including how to initiate a cancellation and any related procedures.",5
+Account Opening Assistance,"Questions related to the process of opening new accounts, including guidance and support for setting up different types of accounts.",3
+Registration Issues,"Questions related to problems encountered during the registration process, including errors, difficulties in signing up, or issues with account creation.",5
+Chat Assistance,Questions related to how to initiate or engage in a chat with customer support or other users.,1
+Payment Error Notifications,"Questions related to notifying or reporting errors encountered during payment processes, including issues with transactions, payment failures, or incorrect charges.",1
+Address Update Requests,"Questions related to updating, changing, or modifying customer address information in their account or profile.",1
+Parcel Delivery Status,"Questions related to checking the status, expected delivery time, or tracking information of a parcel.",1
+Account Upgrade Requests,"Questions related to changing or upgrading account types, such as moving to a premium or gold account.",2
+Pro Account Data Management,"Questions related to editing, updating, or managing data within a professional account tier.",1
+Shipment Options Inquiry,"Questions related to checking, selecting, or understanding the available shipment or delivery options for orders.",2
+Refund Inquiries,"Questions related to the status, processing, and issues concerning refunds, including specific amounts and timelines.",10
+Compensation Status Inquiries,"Questions related to checking the status of compensation claims, payments, or reimbursements.",3
+Restitution Tracking,"Questions related to tracking, monitoring, or managing restitution processes or payments.",1
+Consumer Complaints,"Questions and issues related to filing complaints or reclamations against the organization, including dissatisfaction with products or services.",3
+Account Information Update,"Questions related to updating or changing personal information in a user's account, such as name, address, email, or phone number.",1
+Newsletter Subscription Requests,"Questions related to subscribing to or receiving newsletters, including assistance with signing up or troubleshooting delivery issues.",1
+Consumer Claims Assistance,"Questions related to seeking help or guidance on how to file a consumer claim or complaint against the business, including the process, requirements, and support available.",1
+Payment Modalities Assistance,"Questions related to understanding, accessing, or clarifying the different methods and options available for making payments.",1
+Shipment Options,"Questions related to the different shipping methods, delivery times, and available shipment services.",1
+Customer Claim Process,"Questions related to the procedures and locations for lodging customer claims, including where and how to submit claims.",1
+Invoice Retrieval,"Questions related to obtaining or accessing specific invoices, including requests for invoice numbers or details.",10
+Shipping Address Updates,Questions related to updating or changing the shipping address for an order or account.,1
+Shipping Methods Inquiry,"Questions related to the different methods available for shipping, including options, delivery times, and associated costs.",3
+Account Closure Assistance,"Questions related to closing or terminating accounts, including premium or subscription-based accounts, and seeking help with the process.",2
+Account Plan Changes,"Questions related to changing, upgrading, or downgrading account plans, including switching to freemium or other subscription types.",1
+Ordering Process,"Questions related to the steps and requirements for placing an order, including how to initiate an order and what information is needed.",1
+Address Management,"Questions related to setting up, changing, or managing delivery addresses for orders.",1
+Customer Reclamation Process,"Questions related to filing complaints, claims, or seeking resolutions for customer service issues.",1
+Delivery Time Inquiries,"Questions related to the estimated time of arrival for purchases, including inquiries about shipping duration and delivery schedules.",2
+Shipment Methods Information,"Questions related to the various methods available for shipping, including details on delivery options, carriers, and shipping times.",1
+Customer Support Access Issues,"Questions related to difficulties in reaching or communicating with customer support representatives, including issues with contacting a live person or accessing support services.",1
+Claims and Complaints,"Questions related to lodging claims, filing complaints, or seeking redress against the business.",2
+Account Recovery Assistance,"Questions related to retrieving or resetting account passwords, recovering account access, or dealing with login issues.",1
+Restitution Status Inquiries,"Questions related to checking, understanding, or verifying the status of restitution claims or payments.",2
+Customer Service Transfer Requests,Questions related to requests for transferring calls or communications to another person or department within customer service.,1
+Order Correction Assistance,"Questions related to correcting or modifying an existing purchase order, including issues with order details, incorrect items, or changes needed after placing an order.",1
+Purchase Process Inquiries,"Questions related to the steps or procedures required to purchase products or services, including how to initiate a purchase, payment methods, and order placement.",2
+Payment Methods Assistance,"Questions related to understanding, listing, or getting help with available payment methods and options.",2
+Shipping Address Management,"Questions related to adding, updating, or managing primary and secondary shipping addresses in the system.",1
+Customer Complaints and Reclamations,"Questions and requests related to filing complaints, making reclamations, or seeking resolutions for issues experienced with the company's products or services.",2
+Product Acquisition Assistance,"Questions related to acquiring, purchasing, or obtaining multiple items or products from the company.",2
+Account Access Key Management,"Questions related to managing, resetting, or recovering access keys for user accounts.",2
+Delivery Address Changes,"Questions related to modifying or updating the delivery address for an order, including inquiries about the process, requirements, and potential issues with changing the address.",1
+Account Upgrade Process,"Questions related to the steps or procedures required to upgrade an account to a higher tier, such as a pro account.",1
+Shipping Address Submission,Questions related to how and where customers can submit or update their shipping address for orders or deliveries.,1
+Registration Issues Notification,"Questions related to notifying or reporting problems encountered during the registration process, including difficulties in signing up or creating an account.",1
+Account Management for Family Members,"Questions related to managing or creating additional accounts for family members, such as setting up new accounts, upgrading to premium, or linking family accounts.",1
+Shipping Options Assistance,"Questions related to checking, understanding, or selecting different shipping options available for a purchase.",2
+Billing and Invoice Retrieval,"Questions related to locating, accessing, or retrieving billing statements or invoices, including specific bill numbers.",1
+Agent Communication Issues,Questions related to difficulties or confusion about how to contact or communicate with a customer service agent.,1
+Order Correction Requests,"Questions related to correcting or modifying existing orders, including issues with order details, changes, or updates.",4
+Sign-Up Problem Reporting,Questions related to reporting issues or problems encountered during the sign-up process.,1
+Address Setup Issues,"Questions related to problems or difficulties encountered when setting up or modifying delivery addresses, including primary and secondary addresses.",1
+Account Type Changes,"Questions related to changing or switching between different types of accounts, such as upgrading or downgrading account plans.",1
+Address Modification Requests,"Questions related to changing, updating, or editing delivery or billing addresses for orders or accounts.",1
+Withdrawal Penalties,Questions related to understanding the penalties or fees associated with withdrawing funds from an account or investment.,1
+Account PIN Reset,Questions related to resetting or recovering the PIN code for accessing customer accounts.,2
+Shipping and Delivery Status,"Questions related to the estimated arrival time, tracking, and status of customer orders.",2
+Feedback Submission Issues,"Questions and issues related to submitting feedback about the services, including difficulties or confusion in the feedback process.",1
+Address Editing Issues,Questions related to difficulties or problems encountered while trying to edit or update address information in the system.,2
+Delivery Inquiries,"Questions related to delivery options, including whether delivery is available to specific countries or regions.",14
+PIN Code Recovery,Questions related to recovering or resetting a PIN code for account access or security purposes.,1
+User Data Update,"Questions related to updating, modifying, or changing user data or account information.",1
+Registration Issue Reporting,Questions related to reporting problems or issues encountered during the registration process.,1
+Address Modification,"Questions related to updating, changing, or modifying customer address information in their account.",1
+Customer Service Contact Information,"Questions related to finding out how and when to contact customer service, including inquiries about customer service hours and contact methods.",2
+Shopping Process,Questions related to the steps or requirements needed to purchase or shop for products.,1
+Reimbursement Tracking,"Questions related to the process of tracking reimbursements, including how to monitor the status of a reimbursement request and any associated updates or notifications.",2
+Product Review and Feedback,"Questions related to writing, submitting, or managing comments and reviews for products.",1
+Termination Charges Inquiry,Questions related to the costs or fees associated with terminating a service or contract.,4
+Online Payment Errors,"Questions related to issues or errors encountered during online payment processes, including transaction failures, payment gateway errors, and troubleshooting payment-related problems.",1
+Registration Error Assistance,"Questions related to seeking help for errors encountered during the registration process, including issues with form submissions, account creation, or validation errors.",1
+Account Category Assistance,"Questions related to using or understanding different account categories, including how to access, modify, or utilize specific account profiles.",1
+Cancellation Penalties,Questions related to understanding the penalties or fees associated with canceling a service or subscription.,2
+Sign-Up Issues,"Questions related to problems encountered during the sign-up process, including errors, difficulties, or clarifications needed for account creation.",4
+Payment Methods,Questions related to the types of payment methods or modalities accepted by the company.,1
+Refund Process Inquiries,Questions related to understanding the steps and requirements for obtaining a refund for a purchase or service.,1
+Product Purchase Guidance,"Questions related to the process of purchasing multiple products, including how to select, add to cart, and complete the transaction.",1
+Article Access and Earning Assistance,"Questions related to accessing articles, understanding how to earn or gain access to content, and assistance with article-related queries.",1
+Account Details Modification,"Questions related to changing or updating information on various types of accounts, such as personal details, contact information, or account settings.",3
+Account Category Change Requests,Questions related to changing or switching between different account categories or types.,1
+Account Management,"Questions related to editing, updating, or managing user account settings and information.",1
+Reimbursement Inquiries,"Questions related to the status, processing, and details of reimbursement or refund requests.",5
+Customer Assistance Availability,Questions related to the hours and availability of customer support services.,1
+Account Type Change Requests,"Questions related to changing or upgrading to a different account type, including inquiries about the process, requirements, and steps needed to make the change.",3
+Complaint and Reclamation Procedures,"Questions related to filing complaints or making reclamations against the organization, including the process, requirements, and contact points for submitting such requests.",1
+Account Registration and Upgrade,"Questions related to the process of registering for an account and upgrading to a pro account, including eligibility and requirements.",1
+Shipment Method Inquiries,"Questions related to checking available shipment methods, delivery options, and shipping preferences.",1
+Unsubscription Requests,"Questions related to unsubscribing from newsletters, services, or any other subscriptions.",2
+Customer Service Requests,Questions and requests related to contacting or speaking with customer service representatives for assistance or support.,1
+Customer Assistance Requests,Questions where customers are seeking direct interaction or assistance from a representative or specific person.,1
+Address Entry Issues,Questions related to problems or difficulties encountered when entering or updating delivery addresses in the system.,1
+Payment Method Assistance,"Questions related to understanding, accessing, or troubleshooting available payment methods for transactions.",1
+Order Update Requests,"Questions related to updating or modifying existing orders, including changes to order details, shipping information, or cancellations.",6
+Customer Support Chat Requests,Questions from customers seeking assistance through live chat or direct communication with a support representative.,1
+Sign-Up Assistance,"Questions related to issues or problems encountered during the sign-up or registration process, including technical difficulties, error messages, or guidance on completing the sign-up.",1
+Payment Options,"Questions related to the available methods of payment, including credit cards, PayPal, bank transfers, and other payment systems accepted by the company.",4
+Account Management - Premium Cancellation,"Questions related to managing premium accounts, specifically focusing on how to cancel or remove a premium subscription.",1
+Shipping Address Assistance,"Questions related to setting, updating, or changing the shipping address for orders or accounts.",1
+Product Acquisition Requests,"Questions related to acquiring, purchasing, or obtaining multiple articles or products from the company.",1
+Profile Key Retrieval,"Questions related to retrieving or accessing a user's profile key, which may involve account recovery or security verification processes.",1
+Invoice Access,"Questions related to viewing, accessing, or retrieving specific invoices or billing statements.",1
+Payment Issues Notification,"Questions related to reporting or notifying about problems or issues with payment processing, transactions, or billing errors.",2
+Request for Human Assistance,"Questions where customers express a desire to speak directly with a human operator or customer service representative, often due to frustration or the need for personalized assistance.",1
+Assistance Contact Requests,Questions related to seeking help or guidance on how to contact a support assistant or customer service representative.,1
+Package Delivery Status,"Questions related to tracking shipments, delivery times, and the status of package arrivals.",2
+Order Delivery Timeframe,Questions related to the expected delivery time or status of a customer's purchase.,1
+Delivery Address Modifications,"Questions related to changing, updating, or modifying the delivery address for an order.",1
+Product Feedback Submission,Questions related to how and where customers can submit feedback or reviews about a product.,1
+Delivery Address Setup Issues,Questions related to difficulties or problems encountered when setting up or changing a delivery address for orders.,1
+Account Closure Requests,"Questions related to closing or terminating different types of accounts, including inquiries about the process, requirements, and implications of account closure.",3
+Shipment Tracking,"Questions related to the status, expected delivery time, and tracking of shipments or orders.",1
+Filing Claims,"Questions related to the process of filing claims, including where and how to submit a claim against the company.",1
+Product Swap Issues,"Questions related to problems encountered when attempting to swap or exchange a purchased product, including issues with order numbers and the swapping process.",1
+Withdrawal Penalty Information,"Questions related to understanding, locating, and clarifying penalties associated with withdrawing funds or closing accounts.",1
+Newsletter Subscription and Delivery,"Questions related to subscribing to, receiving, or managing the delivery of the company newsletter.",1
+Package Delivery Time,"Questions related to the expected delivery time of a package, including inquiries about shipping status and estimated arrival dates.",1
+Complaint Procedures,"Questions related to the process of filing a complaint, including steps to take, contact information, and expected outcomes.",1
+Billing Inquiry,"Questions related to understanding, checking, or resolving issues with customer bills or invoices.",1
+Payment Declines,"Questions related to issues with payment processing, such as declined transactions, errors during payment, or problems with card acceptance.",1
+Contacting Support,Questions related to how customers can reach a human agent or customer support for assistance.,1
+Order ETA Inquiries,Questions related to checking the estimated time of arrival for a customer's purchase order.,2
+Address Update Procedures,"Questions related to updating or changing shipping addresses in the system, including steps and requirements for entering a new address.",1
+Rebate and Refund Requests,"Questions related to requesting rebates, refunds, or financial reimbursements for services or products.",1
+Ordering Assistance,"Questions related to the process of ordering products, including how to place an order, available articles, and any issues encountered during the ordering process.",1
+Account Opening Locations,"Questions related to where customers can open different types of accounts, including physical locations or online options.",1
+Product Feedback Assistance,"Questions related to providing feedback or reviews about the company's products, including how to submit feedback and where to send it.",1
+Account Switching Assistance,Questions related to the process and steps required to switch from one account category to another.,3
+Access Key Restoration,"Questions related to recovering or restoring access keys, including issues with lost or compromised keys and steps to regain access.",1
+User Profile PIN Reset,"Questions related to resetting or recovering the PIN code for user profiles, including steps to reset and troubleshoot issues with PIN recovery.",1
+Rebate Status Inquiries,Questions related to checking the current status or progress of rebate applications or claims.,1
+Registration Issue Notifications,"Questions related to notifying or reporting issues encountered during the registration process, including errors, technical difficulties, or confirmation problems.",1
+Compensation and Refund Requests,"Questions related to obtaining monetary compensation, refunds, or financial reimbursements for services or products.",1
+Order Placement Queries,Questions related to the ability to place orders from specific locations or cities.,8
+Account Creation Process,"Questions related to the steps and requirements needed to create different types of accounts, including specific account categories.",1
+Feedback and Reviews,"Questions related to providing feedback, leaving reviews, or sharing experiences about a service.",1
+Feedback and Assistance Requests,Questions where customers express a desire to provide feedback or seek help with submitting their feedback.,1
+Access Key Recovery,"Questions related to retrieving or recovering forgotten or lost access keys, including steps to regain access or reset keys.",1
+Account PIN Recovery,"Questions related to recovering or resetting the PIN for user profiles, including issues with accessing accounts due to forgotten or lost PINs.",1
+Product Ordering,"Questions related to ordering products, including inquiries about purchasing, availability, and order placement.",1
+Reimbursement and Refund Queries,"Questions related to obtaining reimbursements, refunds, or returning money for services or products.",1
+Signup Error Reporting,Questions related to reporting errors or issues encountered during the signup or registration process.,1
+Termination Penalties,Questions related to understanding the penalties or fees associated with terminating a service or contract.,1
+Account Password Retrieval,"Questions related to recovering or resetting the password for a user account, including issues with accessing the account due to forgotten or lost passwords.",1
+Account Security and PIN Reset,"Questions related to resetting PINs, passwords, or other security-related issues for user profiles.",1
+Platinum Profile Assistance,"Questions related to using, accessing, or troubleshooting the features and functionalities of the platinum profile.",1
+Assistance Requests,"Questions where customers seek help or guidance from a support assistant, including requests for communication or interaction with a representative.",1
+Payment Error Reporting,"Questions related to issues with making payments, including errors encountered during transactions and requests for assistance in resolving payment problems.",1
+Termination Penalty Inquiries,Questions related to understanding or locating information about penalties or fees associated with terminating a service or contract.,1
+Account Access Key Issues,"Questions related to problems with accessing, restoring, or managing account access keys, including issues with lost or compromised keys.",1
+Customer Reclamation Assistance,"Questions related to seeking help with filing complaints or claims against the company, including issues with products, services, or customer service experiences.",1
+Delivery Information,"Questions related to delivery times, shipping periods, and how to obtain information about delivery schedules.",1
+Account Data Correction,"Questions related to correcting or updating information on various types of accounts, including errors or changes in account details.",2
+Delivery Address Modification Issues,Questions related to errors or problems encountered when attempting to modify or update the delivery address for an order.,1
+Account Type Inquiries,"Questions related to different types of accounts, their features, benefits, and how to use or upgrade them.",1
+Delivery Address Setup,"Questions related to setting up, changing, or troubleshooting the delivery address for orders.",1
+Invoice Viewing Assistance,"Questions related to accessing, viewing, or retrieving invoices, particularly those associated with specific individuals or accounts.",1
+Account Profile Usage,Questions related to the steps or requirements needed to access or utilize specific account profiles or categories.,1
+Customer Reclamations,"Questions related to customer complaints, issues, or requests for refunds or exchanges.",1
+Freemium Account Setup,"Questions related to setting up or opening freemium accounts, including assistance for creating accounts for family members or others.",1
+Order Tracking Assistance,"Questions related to locating or tracking a purchase using an order number, including requests for help with finding order details or status.",1
+Shipment Methods Assistance,"Questions related to understanding, selecting, or getting help with different shipment methods and options.",1
+Feedback and Opinions,"Questions related to providing feedback, opinions, or reviews about the company's products or services, including inquiries about how to submit such feedback.",1
+Account Change Requests,"Questions related to changing or modifying account types, such as upgrading or downgrading to different subscription plans, including freemium accounts.",1
+Order Status Issues,Questions related to difficulties in checking or tracking the status of a purchase order.,1
+Account Switching Inquiries,Questions related to changing or switching between different account categories or types.,3
+Newsletter Subscription Inquiries,"Questions related to subscribing to, receiving, or managing the company newsletter.",1

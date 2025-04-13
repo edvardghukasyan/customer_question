@@ -1,0 +1,9 @@
+TEMPERATURE = 0
+BATCH_SIZE = 5
+CSV_FILE_PATH = "data.csv"
+JSON_OUTPUT_PATH = "question_results.json"
+CSV_OUTPUT_PATH = "question_results.csv"
+EVALUATION_RESULTS_CSV = "question_results.csv"   # using the same file
+EVALUATION_RESULTS_JSON = "question_results.json" # using the same file
+MODEL_NAME = "gpt-4o"
+SAMPLE_SIZE = 533
