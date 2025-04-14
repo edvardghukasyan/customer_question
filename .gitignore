@@ -1,4 +1,6 @@
-*__pycache__/
-*.py[cod]
-*.class
-.idea/
+# Ignore all __pycache__ directories in any folder
+**/__pycache__/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
