@@ -12,6 +12,8 @@ This repository contains code for classifying customer questions using language 
 ### Evaluation & Mapping:
 - Since we do not use true labels for our predictions, we map the predicted clusters to the dominant true label extracted from the real dataset using a combination of the Hungarian assignment mapping and majority voting.
 - Our evaluation uses overall accuracy as a metric, achieving an accuracy of 93.53% on a sample.
+- Since we don't have real labels, we start with an empty set of categories in our prompt. After each prediction, if the newly predicted label doesn't exist in our current set, it's added to the set. This adaptive approach allows our classifier to build its taxonomy of categories organically as it processes more data.
+
 
 ### Asynchronous Processing:
 - OpenAI's standard client cannot send too many requests concurrently. Therefore, we process requests asynchronously in batches.
